@@ -10,7 +10,7 @@ class Hello extends React.Component {
   }
 
   componentDidMount() {
-    console.log('component mounted!');
+    console.log('hello component mounted!');
   }
 
   onLike () {

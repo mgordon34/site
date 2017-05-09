@@ -1,4 +1,5 @@
 venv/
 dist/
 node_modules/
+public/bundle.js
 *.pyc
