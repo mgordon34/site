@@ -15,6 +15,9 @@ class Main extends React.Component {
             <Link to='/' className='navbar-brand'>
               <span>OverRank</span>
             </Link>
+            <Link to='/movies' className='navbar-brand'>
+              <span>Movies</span>
+            </Link>
             <Link to='/stream' className='navbar-brand'>
               <span>Stream</span>
             </Link>
