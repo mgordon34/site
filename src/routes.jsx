@@ -13,6 +13,7 @@ class Routes extends React.Component {
           <Route path="/" component={Hello}/>
           <Route path="/stream" component={Stream}/>
           <Route path="/movies" component={Movies}/>
+          <Route path="/movies/test1" component={Stream}/>
         </Route>
       </Router>
     );

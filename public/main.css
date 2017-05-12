@@ -6,3 +6,14 @@ body {
   background-color: #121212;
   color: #C7C7C7;
 }
+
+a.list-group-item {
+  color: #9d9d9d;
+  background-color: #222;
+  border-color: #000;
+}
+
+a.list-group-item:hover {
+  color: #c7c7c7;
+  background-color: #313131;
+}

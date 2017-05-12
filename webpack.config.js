@@ -28,5 +28,10 @@ module.exports = {
         loader: 'babel-loader'
       }
     ]
+  },
+
+  node: {
+    dns: 'mock',
+    net: 'mock'
   }
 };
